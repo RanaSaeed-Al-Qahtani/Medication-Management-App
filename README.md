@@ -13,6 +13,20 @@ The project aims to provide users with a simple way to record medication informa
 - Simple and user-friendly interface
 - Organized medication information
 
+## 📱 Screenshots
+
+### Add Medication
+![Add Medication](Add%20medication.jpeg)
+
+### Medication Details
+![Medication Details](Medication%20Details.jpeg)
+
+### Manage Users
+![Manage Users](Manage%20Users.jpeg)
+
+### Admin Dashboard
+![Admin Dashboard](Admin%20Dashboard.jpeg)
+
 ## 🛠️ Technologies
 - Flutter
 - Dart
