@@ -25,7 +25,7 @@ The project aims to provide users with a simple way to record medication informa
 ![Manage Users](Manage%20Users.jpeg)
 
 ### Admin Dashboard
-![Admin Dashboard](Admin%20Dashboard.jpeg)
+![Admin Dashboard](Admin%20Dashbord.jpeg)
 
 ## 🛠️ Technologies
 - Flutter
